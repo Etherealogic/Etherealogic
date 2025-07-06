@@ -44,13 +44,24 @@ I’m a systems thinker, freelance theoretical physicist, and AI engineer. At [E
 ---
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=etherealogic
-      &theme=tokyonight
-      &hide_border=true"
-    alt="GitHub Streak" />
+  <a href="https://github.com/etherealogic">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=etherealogic&show_icons=true&theme=tokyonight&hide_border=true"
+      alt="Anthony’s GitHub stats" />
+  </a>
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=etherealogic&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak" />
+  <a href="https://github.com/etherealogic">
+    <img
+      src="https://ghchart.rshah.org/etherealogic"
+      alt="GitHub contribution chart" />
+  </a>
+</p>
 
 ---
 ### 📬 Contact
