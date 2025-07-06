@@ -10,7 +10,6 @@
 
 ### 🧠 Founder of EthereaLogic.ai  
 
-
 ---
 
 ### 👨‍💻 About Me
@@ -45,14 +44,6 @@ I’m a systems thinker, freelance theoretical physicist, and AI engineer. At [E
 
 ### 📈 GitHub Activity
 
-- 🗓️ **2,651 contributions** in the past year  
-- 🧠 1,424 commits in July alone (MIAIR-v3.0 + new releases coming)
-
----
-
-### 📈 GitHub Activity
-
-<!-- Live GitHub Stats Card -->
 <a href="https://github.com/etherealogic">
   <img 
     align="center" 
@@ -65,30 +56,11 @@ I’m a systems thinker, freelance theoretical physicist, and AI engineer. At [E
     alt="Anthony’s GitHub stats" />
 </a>
 
-<!-- Optional: Streak / Calendar Cards -->
-<a href="https://github.com/etherealogic">
-  <img 
-    align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=etherealogic
-      &theme=tokyonight
-      &hide_border=true" 
-    alt="GitHub Streak" />
-</a>
-<br/>
-<img 
-  align="center" 
-  src="https://activity-graph.herokuapp.com/graph?username=etherealogic
-    &theme=dracula
-    &area=true" 
-  alt="Contribution Calendar" />
-
----
-
-
 ---
 
 ### 📬 Contact
 
 - 🌐 [etherealogic.ai](https://etherealogic.ai)  
 - ✉️ anthony.johnson@etherealogic.ai  
+
 > “Is your AI thinking clearly — or just guessing better...?”
