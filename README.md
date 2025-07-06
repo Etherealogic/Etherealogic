@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Anthony!;Building+AI-powered+tools+that+think+clearly.;Founder+of+Etherealogic.ai" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Anthony!;is+your+AI+thinking+clearly?;or+just+guessing+better?" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -8,7 +8,8 @@
 
 ---
 
-### 🧠 Founder of EthereaLogic.ai
+### 🧠 Founder of EthereaLogic.ai  
+
 
 ---
 
