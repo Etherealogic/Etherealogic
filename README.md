@@ -43,15 +43,6 @@ I’m a systems thinker, freelance theoretical physicist, and AI engineer. At [E
 
 ---
 
-### 📈 GitHub Activity
-
-- 🗓️ **2,651 contributions** in the past year  
-- 🧠 1,424 commits in July alone (MIAIR-v3.0 + new releases coming)
-
-![Anthony’s GitHub stats](https://github-readme-stats.vercel.app/api?username=etherealogic&show_icons=true&theme=tokyonight)
-
----
-
 ### 📬 Contact
 
 - 🌐 [etherealogic.ai](https://etherealogic.ai)  
