@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a systems thinker, theoretical physicist, and AI engineer. At [Etherealogic.ai](https://etherealogic.ai), I design practical tools and frameworks that prioritize clarity over complexity.
+I’m a systems thinker, freelance theoretical physicist, and AI engineer. At [Etherealogic.ai](https://etherealogic.ai), I design practical tools and frameworks that prioritize clarity over complexity.
 
 ---
 
