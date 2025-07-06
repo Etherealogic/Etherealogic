@@ -48,7 +48,42 @@ I’m a systems thinker, freelance theoretical physicist, and AI engineer. At [E
 - 🗓️ **2,651 contributions** in the past year  
 - 🧠 1,424 commits in July alone (MIAIR-v3.0 + new releases coming)
 
-![Anthony’s GitHub stats](https://github-readme-stats.vercel.app/api?username=etherealogic&show_icons=true&theme=tokyonight)
+---
+
+### 📈 GitHub Activity
+
+<!-- Live GitHub Stats Card -->
+<a href="https://github.com/etherealogic">
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=etherealogic
+      &show_icons=true
+      &theme=tokyonight
+      &hide_border=true
+      &count_private=true
+      &include_all_commits=true" 
+    alt="Anthony’s GitHub stats" />
+</a>
+
+<!-- Optional: Streak / Calendar Cards -->
+<a href="https://github.com/etherealogic">
+  <img 
+    align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=etherealogic
+      &theme=tokyonight
+      &hide_border=true" 
+    alt="GitHub Streak" />
+</a>
+<br/>
+<img 
+  align="center" 
+  src="https://activity-graph.herokuapp.com/graph?username=etherealogic
+    &theme=dracula
+    &area=true" 
+  alt="Contribution Calendar" />
+
+---
+
 
 ---
 
