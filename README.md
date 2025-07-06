@@ -8,14 +8,16 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 Founder of EthereaLogic.ai
 
+---
+
+### 👨‍💻 About Me
 I’m a systems thinker, freelance theoretical physicist, and AI engineer. At [Etherealogic.ai](https://etherealogic.ai), I design practical tools and frameworks that prioritize clarity over complexity.
 
 ---
 
 ### 🚀 What I’m Working On
-
 - Releasing 3–5 open-source AI tools this year  
 - Focusing on underexplored, high-leverage ideas  
 - Making orchestration, LLMs, and infrastructure actually useful
@@ -32,9 +34,25 @@ I’m a systems thinker, freelance theoretical physicist, and AI engineer. At [E
 
 ---
 
+### 🏆 GitHub Achievements
+
+| 🦈 Pull Shark | 🪩 YOLO | 🟢 Pair Extraordinaire | 🎯 Quickdraw |
+|--------------|--------|------------------------|--------------|
+| Merged like a boss | First to dive in | Collaborative commits | Rapid precision commits |
+
+---
+
+### 📈 GitHub Activity
+
+- 🗓️ **2,651 contributions** in the past year  
+- 🧠 1,424 commits in July alone (MIAIR-v3.0 + new releases coming)
+
+![Anthony’s GitHub stats](https://github-readme-stats.vercel.app/api?username=etherealogic&show_icons=true&theme=tokyonight)
+
+---
+
 ### 📬 Contact
 
 - 🌐 [etherealogic.ai](https://etherealogic.ai)  
-- ✉️ anthony.johnson@etherealogic.ai
-
+- ✉️ anthony.johnson@etherealogic.ai  
 > “Is your AI thinking clearly — or just guessing better...?”
